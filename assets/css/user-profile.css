@@ -1,0 +1,36 @@
+.profileRow{
+    text-align: -webkit-center;
+    margin-top: 5%;
+}
+
+.profilePic{
+/*
+    width: 200px;
+    height: 200px;
+*/
+    display: block;
+    max-width:250px;
+    max-height:250px;
+    width: auto;
+    height: auto;
+}
+
+/*
+.heading{
+    background: white;
+    color: darkblue;
+}
+*/
+
+.user-info-div{
+    background: white;
+    color: darkblue;
+}
+
+.user-info-div p{
+    padding: 2%;
+}
+
+.user-info-div p strong{
+    margin-right: 2%;
+}
